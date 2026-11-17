@@ -1,0 +1,23 @@
+﻿# Tings AI 2.0 â€” Intelligent Market Copilot
+
+> Tings AI 2.0 is an AI-powered financial intelligence platform designed for retail investors in Indonesia. It provides macro-economic context, portfolio concentration risk analysis, and objective market insights without selling speculative buy/sell trading signals.
+
+## Core Features
+- **Trifecta AI Orchestrator**: Seamless routing between Google Gemini 3 Pro (macro context), Groq LLaMA-3 (sub-200ms interactive execution), and Local Ollama (zero-downtime privacy fallback).
+- **Pusat Komando Pagi (Morning Command Briefing)**: 3-minute daily market pulse covering IHSG, Crypto, US Bond Yields, and macro shifts before the market opens.
+- **Portfolio Concentration & Risk Health Check**: Automatic detection of over-concentrated positions to prevent catastrophic drawdowns.
+- **Investment Decision Journal**: AI-evaluated journal to track trading psychology and eliminate emotional FOMO trading.
+- **Fundamental Ratio Stock Screener**: Clean, un-cluttered fundamental screening for Indonesian stocks.
+
+## Architecture & Technology Stack
+- Next.js 16 (Marketing Landing Page at tingsai.my.id)
+- React SPA (App Dashboard at app.tingsai.my.id)
+- Express / Node.js Backend API
+- Trifecta AI Engine: Gemini API + Groq Cloud + Ollama LLaMA-3 Local Server
+
+## Official Links
+- Landing Page: https://tingsai.my.id
+- Application Login & Dashboard: https://app.tingsai.my.id
+- Author & Builder: Faturachman Alkahfi (https://faturachman.my.id)
+
+
